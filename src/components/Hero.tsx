@@ -25,7 +25,7 @@ const ProfileImage = () => (
       {/* Light Blue ring */}
       <div className="w-64 h-64 sm:w-72 sm:h-72 md:w-80 md:h-80 lg:w-[400px] lg:h-[400px] rounded-full p-[4px] gold-ring gold-glow">
         <img
-          src="/assets/profile.jpg"
+          src="/sreelekha.jpeg"
           alt="Profile photo of SREELEKHA MEENUGU"
           className="w-full h-full rounded-full object-cover bg-card"
           loading="eager"
